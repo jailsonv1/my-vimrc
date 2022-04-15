@@ -10,6 +10,7 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 
 ## Utility
 - [nerdtree][nerdtree] - The NERDTree is a file system explorer for the Vim editor. 
+- [vim-commentary][vim-commentary] - Comment stuff out. 
 
 
 ## Theme
@@ -38,7 +39,11 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 
 | Plugin                           | Key                      |      Mode     | Action                                                    |
 |:---------------------------------|:-------------------------|:-------------:|:----------------------------------------------------------|
-| [nerdtree][nerdtree]             | `Ctrl` + `n`             |     Normal    | Open and close an explorer the current directory                                         |
+| [nerdtree][nerdtree]             | `Ctrl` + `n`             |     Normal    | Open and close an explorer the current directory          |
+| [vim-commentary][vim-commentary] | `gcc`                    |     Normal    | to comment out a line                                     |
+| [vim-commentary][vim-commentary] | `gc`                     |     Normal    | to comment out the target of a motion                     |
+| [vim-commentary][vim-commentary] | `gcap`                   |     Normal    | to comment out a paragraph                                |
+| [vim-commentary][vim-commentary] | `gc`                     |     Visual    | in visual mode to comment out the selection               |
 
 
 [vim-airline]:https://github.com/bling/vim-airline "https://github.com/bling/vim-airline"
