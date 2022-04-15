@@ -35,7 +35,7 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 | `<Ctrl>` + `j` |     Normal     | resize the current split window         |
 | `<Ctrl>` + `k` |     Normal     | resize the current split window         |
 | `/` + `(text)` |     Normal     | search for the word type                |
-| `<Ctrl>` + `i` |     Normal     | search for the word type                |
+| `<Ctrl>` + `i` |     Normal     | clear search text                       |
 
 ### Plugins key bindings
 
