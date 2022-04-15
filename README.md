@@ -16,4 +16,4 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 ## Related projects
 
 [vim-airline]:https://github.com/bling/vim-airline "https://github.com/bling/vim-airline"
-[onedark.vim]:https://https://github.com/joshdick/onedark.vim "https://github.com/joshdick/onedark.vim"
+[onedark.vim]:https://github.com/joshdick/onedark.vim "https://github.com/joshdick/onedark.vim"
