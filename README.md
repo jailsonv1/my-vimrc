@@ -9,7 +9,10 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 ### Plugins list
 
 ## Utility
+- [nerdtree][nerdtree] - The NERDTree is a file system explorer for the Vim editor. 
 
+
+## Theme
 - [vim-airline][vim-airline] - lean & mean status/tabline for vim that's light as air
 - [onedark.vim][onedark.vim] - A dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals 
 
@@ -17,3 +20,5 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 
 [vim-airline]:https://github.com/bling/vim-airline "https://github.com/bling/vim-airline"
 [onedark.vim]:https://github.com/joshdick/onedark.vim "https://github.com/joshdick/onedark.vim"
+[nerdtree]:https://github.com/preservim/nerdtree  "https://github.com/preservim/nerdtree"
+
