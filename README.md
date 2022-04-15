@@ -49,4 +49,5 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 [vim-airline]:https://github.com/bling/vim-airline "https://github.com/bling/vim-airline"
 [onedark.vim]:https://github.com/joshdick/onedark.vim "https://github.com/joshdick/onedark.vim"
 [nerdtree]:https://github.com/preservim/nerdtree  "https://github.com/preservim/nerdtree"
+[vim-commentary]:https://github.com/tpope/vim-commentary  "https://github.com/tpope/vim-commentary"
 
