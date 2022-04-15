@@ -37,8 +37,6 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 | [nerdtree][nerdtree]             | `Ctrl` + `n`             |     Normal    | Open and close an explorer the current directory                                         |
 
 
-## Related projects
-
 [vim-airline]:https://github.com/bling/vim-airline "https://github.com/bling/vim-airline"
 [onedark.vim]:https://github.com/joshdick/onedark.vim "https://github.com/joshdick/onedark.vim"
 [nerdtree]:https://github.com/preservim/nerdtree  "https://github.com/preservim/nerdtree"
