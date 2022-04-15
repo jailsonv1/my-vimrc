@@ -20,19 +20,11 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 
 | Key            |      Mode      | Action                                  |
 |:---------------|:--------------:|:----------------------------------------|
-| `<BS>`         |     Normal     | unhighlight the search result           |
-| `[b`           |     Normal     | switch to previous buffer               |
-| `]b`           |     Normal     | switch to next buffer                   |
-| `<Ctrl>` + `a` | Command/Insert | move the cursor to the begining of line |
-| `<Ctrl>` + `e` | Command/Insert | move the cursor to the end of line      |
-| `<Ctrl>` + `h` | Command/Insert | move the cursor left by word            |
-| `<Ctrl>` + `l` | Command/Insert | move the cursor right by word           |
-| `<Ctrl>` + `b` |     Insert     | move the cursor left by char            |
-| `<Ctrl>` + `f` |     Insert     | move the cursor right by char           |
-| `<Ctrl>` + `j` |     Insert     | move the cursor down by line            |
-| `<Ctrl>` + `k` |     Insert     | move the cursor up by line              |
-| `<Ctrl>` + `j` |     Visual     | move the current line downward          |
-| `<Ctrl>` + `k` |     Visual     | move the current line upward            |
+| `h`            |     Normal     | move current row to left                |
+| `j`            |     Normal     | move the current line downward          |
+| `k`            |     Normal     | move the current row up                 |
+| `l`            |     Normal     | move the current row to the right       |
+| `u`            |     Normal     | undo changes in Vim                     |
 | `<Ctrl>` + `h` |     Normal     | resize the current split window         |
 | `<Ctrl>` + `l` |     Normal     | resize the current split window         |
 | `<Ctrl>` + `j` |     Normal     | resize the current split window         |
