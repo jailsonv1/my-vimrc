@@ -25,6 +25,10 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 | `k`            |     Normal     | move the current row up                 |
 | `l`            |     Normal     | move the current row to the right       |
 | `u`            |     Normal     | undo changes in Vim                     |
+| `up`           |     Normal     | rezise +2 tab                           |
+| `down`         |     Normal     | rezise +2 tab                           |
+| `left`         |     Normal     | resize +2 tab                           |
+| `right`        |     Normal     | resize +2 tab                           |
 | `<Ctrl>` + `h` |     Normal     | resize the current split window         |
 | `<Ctrl>` + `l` |     Normal     | resize the current split window         |
 | `<Ctrl>` + `j` |     Normal     | resize the current split window         |
