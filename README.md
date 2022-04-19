@@ -17,6 +17,10 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 - [vim-airline][vim-airline] - lean & mean status/tabline for vim that's light as air
 - [onedark.vim][onedark.vim] - A dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals 
 
+## Stylization Language
+- [W0rp/ale][w0rp/ale] -  ALE (Asynchronous Lint Engine) is a plugin providing linting (syntax checking and semantic errors) in vim
+
+
 ### Move around & Edit
 
 | Key            |      Mode      | Action                                  |
@@ -46,10 +50,13 @@ vim uses [vim-plug](https://github.com/junegunn/vim-plug). Run `:PlugInstall` in
 | [vim-commentary][vim-commentary] | `gc`                     |     Normal    | to comment out the target of a motion                     |
 | [vim-commentary][vim-commentary] | `gcap`                   |     Normal    | to comment out a paragraph                                |
 | [vim-commentary][vim-commentary] | `gc`                     |     Visual    | in visual mode to comment out the selection               |
+| [w0rp/ale][w0rp/ale]             | `Ctrl` + `j`             |     Normal    | jump to upper error message                               | 
+| [w0rp/ale][w0rp/ale]             | `Ctrl` + `k`             |     Normal    | jump to lower error message                               | 
 
 
 [vim-airline]:https://github.com/bling/vim-airline "https://github.com/bling/vim-airline"
 [onedark.vim]:https://github.com/joshdick/onedark.vim "https://github.com/joshdick/onedark.vim"
 [nerdtree]:https://github.com/preservim/nerdtree  "https://github.com/preservim/nerdtree"
 [vim-commentary]:https://github.com/tpope/vim-commentary  "https://github.com/tpope/vim-commentary"
+[w0rp/ale]:https://github.com/dense-analysis/ale "https://github.com/dense-analysis/ale"
 
